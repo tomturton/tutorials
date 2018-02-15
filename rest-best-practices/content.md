@@ -1,4 +1,4 @@
-The following are some miscellaneous REST notes that I didn't want to clutter up my [introductory REST tutorial](/posts/rest-basics).
+The following are some miscellaneous REST notes that I didn't want to clutter up my [introductory REST tutorial](/rest-basics).
 
 
 # Related 'resources'

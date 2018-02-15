@@ -49,9 +49,9 @@ DELETE | Deleting a resource | No | Yes
 
 
 ## Example of how REST might be used
-Let’s pretend you want to write a film rating application to share with friends.
+Let’s pretend you want to write a film rating application.
 You create the database on your web server.
-Each of your friends wants to create their own interface so you decide to write a RESTful API for them.
+Each of your friends wants to contribute, so you decide to write a RESTful API for them.
 The API documentation you give to your friends might look like this:
 
 To get the whole library of rated films

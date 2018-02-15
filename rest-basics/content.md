@@ -45,7 +45,7 @@ PATCH | Partially update a resource | No | Yes
 DELETE | Deleting a resource | No | Yes
 
 [^1]: a method is considered *safe* if it could never alter data on the server, as opposed to *unsafe* which could.
-[^2]: *idempotent* means if the request was repeated the server wouldn’t change.
+[^2]: *idempotent* means if the request was repeated the data on the server wouldn’t change.
 
 
 ## Example of how REST might be used
